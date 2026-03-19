@@ -1,0 +1,428 @@
+[
+  {
+    "id": "m1",
+    "subject": "Math",
+    "topic": "Multiplication",
+    "text": "What is 4 × 306?",
+    "options": ["1,024", "1,224", "1,304", "1,404"],
+    "correctAnswer": "1,224",
+    "explanation": "Great job! Let's solve it step by step: 4 × 300 = 1,200 and 4 × 6 = 24. When we add them together, we get 1,224!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m2",
+    "subject": "Math",
+    "topic": "Division",
+    "text": "A school has 144 students. If they are split into 6 equal groups for a field trip, how many students are in each group?",
+    "options": ["20", "22", "24", "26"],
+    "correctAnswer": "24",
+    "explanation": "You're doing awesome! We divide 144 by 6. 6 goes into 14 twice (12), leaving 2. Then 6 goes into 24 four times. So, 144 ÷ 6 = 24.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m3",
+    "subject": "Math",
+    "topic": "Fractions",
+    "text": "Which fraction is equivalent to 1/2?",
+    "options": ["2/3", "2/4", "1/4", "3/8"],
+    "correctAnswer": "2/4",
+    "explanation": "Perfect! If you cut a pizza into 2 pieces and eat 1, it's the same as cutting it into 4 pieces and eating 2!",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m4",
+    "subject": "Math",
+    "topic": "Fractions",
+    "text": "What is 3/10 + 4/10?",
+    "options": ["7/20", "1/10", "7/10", "12/100"],
+    "correctAnswer": "7/10",
+    "explanation": "Nice work! When the bottom numbers (denominators) are the same, we just add the top numbers (numerators). 3 + 4 = 7, so it's 7/10.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m5",
+    "subject": "Math",
+    "topic": "Multiplication",
+    "text": "Sarah has 5 boxes of pencils. Each box has 12 pencils. She gives 15 pencils to her friends. How many pencils does she have left?",
+    "options": ["45", "60", "75", "30"],
+    "correctAnswer": "45",
+    "explanation": "Let's solve this together! First, find the total: 5 × 12 = 60. Then subtract what she gave away: 60 - 15 = 45.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "m6",
+    "subject": "Math",
+    "topic": "Place Value",
+    "text": "In the number 55,555, how many times greater is the 5 in the thousands place than the 5 in the hundreds place?",
+    "options": ["2 times", "5 times", "10 times", "100 times"],
+    "correctAnswer": "10 times",
+    "explanation": "Great thinking! In our number system, each place value is 10 times greater than the one to its right.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m7",
+    "subject": "Math",
+    "topic": "Geometry",
+    "text": "Which angle is exactly 90 degrees?",
+    "options": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"],
+    "correctAnswer": "Right angle",
+    "explanation": "You got it! A right angle looks like the corner of a square or the letter 'L'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m8",
+    "subject": "Math",
+    "topic": "Geometry",
+    "text": "A rectangle has a length of 8 cm and a width of 5 cm. What is its area?",
+    "options": ["13 cm²", "26 cm²", "40 cm²", "85 cm²"],
+    "correctAnswer": "40 cm²",
+    "explanation": "To find the area, we multiply length times width. 8 × 5 = 40. Great job!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m9",
+    "subject": "Math",
+    "topic": "Decimals",
+    "text": "Which decimal is greater than 0.45 but less than 0.6?",
+    "options": ["0.4", "0.52", "0.65", "0.05"],
+    "correctAnswer": "0.52",
+    "explanation": "Think of it like money! 0.52 is like 52 cents, which is more than 45 cents but less than 60 cents.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "m10",
+    "subject": "Math",
+    "topic": "Patterns",
+    "text": "What are the next two numbers in this pattern? 4, 8, 12, 16, __, __",
+    "options": ["18, 20", "20, 24", "20, 22", "24, 28"],
+    "correctAnswer": "20, 24",
+    "explanation": "The pattern is adding 4 each time! 16 + 4 = 20, and 20 + 4 = 24. You're a pattern pro!",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "m11",
+    "subject": "Math",
+    "topic": "Multiplication",
+    "text": "What is 7 × 8?",
+    "options": ["49", "54", "56", "63"],
+    "correctAnswer": "56",
+    "explanation": "Basic facts! 7 times 8 is 56.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "m12",
+    "subject": "Math",
+    "topic": "Addition",
+    "text": "What is 125 + 75?",
+    "options": ["190", "200", "210", "225"],
+    "correctAnswer": "200",
+    "explanation": "125 plus 75 equals 200.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "e1",
+    "subject": "ELA",
+    "topic": "Main Idea",
+    "passage": "The monarch butterfly is famous for its long journey. Every year, millions of these orange and black butterflies fly from North America to Mexico. This trip is over 2,000 miles long! They stay in the warm forests of Mexico for the winter and fly back north in the spring.",
+    "text": "What is the main idea of this passage?",
+    "options": [
+      "Monarch butterflies are orange and black.",
+      "Mexico has warm forests in the winter.",
+      "Monarch butterflies go on a long journey every year.",
+      "Butterflies like to fly in the spring."
+    ],
+    "correctAnswer": "Monarch butterflies go on a long journey every year.",
+    "explanation": "The whole paragraph describes the long trip (migration) that the butterflies take. Great reading!",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "e2",
+    "subject": "ELA",
+    "topic": "Vocabulary",
+    "passage": "The monarch butterfly is famous for its long journey. Every year, millions of these orange and black butterflies fly from North America to Mexico. This trip is over 2,000 miles long! They stay in the warm forests of Mexico for the winter and fly back north in the spring.",
+    "text": "What does the word 'journey' mean in this passage?",
+    "options": ["A type of food", "A long trip", "A colorful wing", "A winter home"],
+    "correctAnswer": "A long trip",
+    "explanation": "Context clues like 'fly over 2,000 miles' help us see that a journey is a trip. You're a word detective!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "e3",
+    "subject": "ELA",
+    "topic": "Inference",
+    "passage": "Thomas Edison was one of the greatest inventors in history. He is most famous for creating the first long-lasting light bulb. Edison didn't give up easily. He tried thousands of different materials before he found the right one for his light bulb. He once said, 'I have not failed. I've just found 10,000 ways that won't work.'",
+    "text": "Based on the passage, which word best describes Thomas Edison?",
+    "options": ["Lazy", "Persistent", "Lucky", "Quiet"],
+    "correctAnswer": "Persistent",
+    "explanation": "Persistent means you don't give up, even when things are hard. Edison tried thousands of times! Great inference!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "e4",
+    "subject": "ELA",
+    "topic": "Inference",
+    "passage": "Thomas Edison was one of the greatest inventors in history. He is most famous for creating the first long-lasting light bulb. Edison didn't give up easily. He tried thousands of different materials before he found the right one for his light bulb. He once said, 'I have not failed. I've just found 10,000 ways that won't work.'",
+    "text": "Why did the author include the quote at the end of the passage?",
+    "options": [
+      "To show Edison was bad at math.",
+      "To show that Edison had a positive attitude about trying again.",
+      "To explain how light bulbs work.",
+      "To list all the inventions Edison made."
+    ],
+    "correctAnswer": "To show that Edison had a positive attitude about trying again.",
+    "explanation": "The quote shows that Edison saw 'failure' as just another step toward success. You're thinking deep!",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "e5",
+    "subject": "ELA",
+    "topic": "Grammar",
+    "text": "Which sentence uses the correct verb?",
+    "options": [
+      "The students runs to the playground.",
+      "The students run to the playground.",
+      "The students is running to the playground.",
+      "The students has run to the playground."
+    ],
+    "correctAnswer": "The students run to the playground.",
+    "explanation": "Since 'students' is plural (more than one), we use 'run'. If it was just one student, we would say 'runs'.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "e6",
+    "subject": "ELA",
+    "topic": "Punctuation",
+    "text": "Which sentence is punctuated correctly?",
+    "options": [
+      "Do you want to go to the park.",
+      "I love eating apples oranges and bananas.",
+      "Wait for me! shouted Leo.",
+      "\"Wait for me!\" shouted Leo."
+    ],
+    "correctAnswer": "\"Wait for me!\" shouted Leo.",
+    "explanation": "We use quotation marks to show exactly what someone said. Excellent grammar skills!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "e7",
+    "subject": "ELA",
+    "topic": "Vocabulary",
+    "text": "Read this sentence: 'The hiker was exhausted after climbing the steep mountain all day.' What does 'exhausted' mean?",
+    "options": ["Very happy", "Very tired", "Very hungry", "Very fast"],
+    "correctAnswer": "Very tired",
+    "explanation": "Climbing a mountain all day would make anyone very tired! Context clues are your friend.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "e8",
+    "subject": "ELA",
+    "topic": "Main Idea",
+    "text": "Which sentence would be the best topic sentence for a paragraph about healthy habits?",
+    "options": [
+      "Apples are red or green.",
+      "There are many ways to keep your body healthy and strong.",
+      "I like to ride my bike on Saturdays.",
+      "Drinking water is important."
+    ],
+    "correctAnswer": "There are many ways to keep your body healthy and strong.",
+    "explanation": "A topic sentence tells what the whole paragraph is about. This sentence covers all healthy habits!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "e9",
+    "subject": "ELA",
+    "topic": "Inference",
+    "passage": "Leo looked at the broken vase on the floor. His dog, Buster, was hiding under the table with his tail between his legs. Leo sighed and went to get the broom. He knew his mom would be home soon.",
+    "text": "What can you infer about Buster?",
+    "options": [
+      "He is hungry.",
+      "He broke the vase.",
+      "He is excited to see Leo's mom.",
+      "He wants to play with the broom."
+    ],
+    "correctAnswer": "He broke the vase.",
+    "explanation": "Buster is hiding and looks guilty (tail between legs) near the broken vase. You're a great detective!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "e10",
+    "subject": "ELA",
+    "topic": "Theme",
+    "passage": "Leo looked at the broken vase on the floor. His dog, Buster, was hiding under the table with his tail between his legs. Leo sighed and went to get the broom. He knew his mom would be home soon.",
+    "text": "What is the theme of this short story?",
+    "options": [
+      "Dogs are better than cats.",
+      "Taking responsibility for a mess.",
+      "How to fix a vase.",
+      "The importance of cleaning your room."
+    ],
+    "correctAnswer": "Taking responsibility for a mess.",
+    "explanation": "Even though Buster broke it, Leo is taking responsibility by cleaning it up before his mom gets home.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "e11",
+    "subject": "ELA",
+    "topic": "Grammar",
+    "text": "Which word is a noun?",
+    "options": ["Run", "Happy", "Dog", "Quickly"],
+    "correctAnswer": "Dog",
+    "explanation": "A noun is a person, place, or thing. Dog is a thing!",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "e12",
+    "subject": "ELA",
+    "topic": "Punctuation",
+    "text": "Which mark goes at the end of a question?",
+    "options": [".", "!", "?", ","],
+    "correctAnswer": "?",
+    "explanation": "We use a question mark for questions!",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "s1",
+    "subject": "Science",
+    "topic": "Food Chain",
+    "text": "Which of these is a producer in a food chain?",
+    "options": ["A grasshopper", "A frog", "A green plant", "A hawk"],
+    "correctAnswer": "A green plant",
+    "explanation": "Producers make their own food using sunlight. Plants are the best at this! Great job!",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s2",
+    "subject": "Science",
+    "topic": "Adaptations",
+    "text": "Why do some animals, like polar bears, have a thick layer of blubber (fat)?",
+    "options": [
+      "To help them swim faster.",
+      "To keep them warm in cold environments.",
+      "To hide from other animals.",
+      "To help them find food."
+    ],
+    "correctAnswer": "To keep them warm in cold environments.",
+    "explanation": "Blubber acts like a warm blanket for animals living in freezing places. You're a science star!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s3",
+    "subject": "Science",
+    "topic": "States of Matter",
+    "text": "What happens to water when it is cooled to 0 degrees Celsius (32 degrees Fahrenheit)?",
+    "options": [
+      "It turns into a gas.",
+      "It stays a liquid.",
+      "It turns into a solid (ice).",
+      "It disappears."
+    ],
+    "correctAnswer": "It turns into a solid (ice).",
+    "explanation": "That's the freezing point of water! It changes from a liquid to a solid.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s4",
+    "subject": "Science",
+    "topic": "Simple Machines",
+    "text": "Which simple machine would be best for moving a heavy box up into a truck?",
+    "options": ["A lever", "A pulley", "An inclined plane (ramp)", "A wheel and axle"],
+    "correctAnswer": "An inclined plane (ramp)",
+    "explanation": "A ramp makes it much easier to push a heavy load upward. Smart thinking!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s5",
+    "subject": "Science",
+    "topic": "Water Cycle",
+    "text": "In the water cycle, what is it called when water vapor cools down and turns back into liquid clouds?",
+    "options": ["Evaporation", "Condensation", "Precipitation", "Runoff"],
+    "correctAnswer": "Condensation",
+    "explanation": "Think of the water droplets on the outside of a cold glass—that's condensation! You got it!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s6",
+    "subject": "Science",
+    "topic": "Rocks",
+    "text": "Which type of rock is formed from cooled magma or lava?",
+    "options": ["Sedimentary", "Metamorphic", "Igneous", "Sandstone"],
+    "correctAnswer": "Igneous",
+    "explanation": "Igneous rocks are 'fire rocks' born from volcanoes! Great rock knowledge.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s7",
+    "subject": "Science",
+    "topic": "Plants",
+    "text": "What part of the plant is responsible for taking in water and nutrients from the soil?",
+    "options": ["The leaves", "The stem", "The roots", "The flower"],
+    "correctAnswer": "The roots",
+    "explanation": "Roots act like straws, sucking up water and minerals to keep the plant healthy.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "s8",
+    "subject": "Science",
+    "topic": "Circuits",
+    "text": "Which of these is a complete circuit that would light up a bulb?",
+    "options": [
+      "A battery connected to a bulb with one wire.",
+      "A battery connected to a bulb with two wires forming a loop.",
+      "A bulb connected to a switch with no battery.",
+      "A wire connected to a battery with no bulb."
+    ],
+    "correctAnswer": "A battery connected to a bulb with two wires forming a loop.",
+    "explanation": "Electricity needs a full, closed path (a loop) to flow and light the bulb. You're electric!",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "s9",
+    "subject": "Science",
+    "topic": "Weather vs Climate",
+    "text": "What is the difference between weather and climate?",
+    "options": [
+      "Weather is long-term, climate is right now.",
+      "Weather is right now, climate is the pattern over a long time.",
+      "They are the exact same thing.",
+      "Weather only happens in the summer."
+    ],
+    "correctAnswer": "Weather is right now, climate is the pattern over a long time.",
+    "explanation": "Weather is what you see out your window today. Climate is what you expect in a certain place over many years.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s10",
+    "subject": "Science",
+    "topic": "Forces",
+    "text": "If you push a toy car on a smooth floor and then on a rug, why does it slow down faster on the rug?",
+    "options": [
+      "Gravity is stronger on the rug.",
+      "The rug has more friction.",
+      "The car is heavier on the rug.",
+      "The rug is colder than the floor."
+    ],
+    "correctAnswer": "The rug has more friction.",
+    "explanation": "Friction is a force that slows things down when they rub together. Rugs are bumpy and have more friction!",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "s11",
+    "subject": "Science",
+    "topic": "Animals",
+    "text": "Which animal lives in the ocean?",
+    "options": ["Lion", "Elephant", "Whale", "Giraffe"],
+    "correctAnswer": "Whale",
+    "explanation": "Whales live in the ocean!",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "s12",
+    "subject": "Science",
+    "topic": "Sun",
+    "text": "What provides light and heat to the Earth?",
+    "options": ["The Moon", "The Sun", "The Stars", "Mars"],
+    "correctAnswer": "The Sun",
+    "explanation": "The Sun is our main source of light and heat!",
+    "difficulty": "Beginner"
+  }
+]
